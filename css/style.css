@@ -1,0 +1,34 @@
+.panda-bg-info{
+ background-color: #fceae8; 
+ border-radius: 8px;
+}
+
+.catagories img{
+    width:100px;
+}
+
+.panda-watch{
+  background-color: orange;  
+}
+.panda-bag{
+    background-color: orchid;
+}
+
+.panad-shoes{
+ background-color: #0000ff;
+}
+.btn-carousaol{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none; 
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.btn-panda{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
